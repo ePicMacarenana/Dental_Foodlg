@@ -1,0 +1,602 @@
+[
+	[
+		{
+			"groupId": 1,
+			"messageCode": "SUGAR_GROUP_1_ADVICE_ONE"
+		},
+		{
+			"groupId": 1,
+			"messageCode": "SUGAR_GROUP_1_ADVICE_TWO"
+		},
+		{
+			"groupId": 1,
+			"messageCode": "SUGAR_GROUP_1_ADVICE_THREE"
+		},
+		{
+			"groupId": 1,
+			"messageCode": "SUGAR_GROUP_1_ADVICE_FOUR"
+		}
+	],
+	[
+		{
+			"groupId": 2,
+			"messageCode": "SUGAR_GROUP_2_ADVICE_ONE"
+		},
+		{
+			"groupId": 2,
+			"messageCode": "SUGAR_GROUP_2_ADVICE_TWO"
+		},
+		{
+			"groupId": 2,
+			"messageCode": "SUGAR_GROUP_2_ADVICE_THREE"
+		},
+		{
+			"groupId": 2,
+			"messageCode": "SUGAR_GROUP_2_ADVICE_FOUR"
+		}
+	],
+	[
+		{
+			"groupId": 3,
+			"messageCode": "SUGAR_GROUP_3_ADVICE_ONE"
+		},
+		{
+			"groupId": 3,
+			"messageCode": "SUGAR_GROUP_3_ADVICE_TWO"
+		},
+		{
+			"groupId": 3,
+			"messageCode": "SUGAR_GROUP_3_ADVICE_THREE"
+		},
+		{
+			"groupId": 3,
+			"messageCode": "SUGAR_GROUP_3_ADVICE_FOUR"
+		}
+	],
+	[
+		{
+			"groupId": 4,
+			"messageCode": "SUGAR_GROUP_4_ADVICE_ONE"
+		},
+		{
+			"groupId": 4,
+			"messageCode": "SUGAR_GROUP_4_ADVICE_TWO"
+		},
+		{
+			"groupId": 4,
+			"messageCode": "SUGAR_GROUP_4_ADVICE_THREE"
+		},
+		{
+			"groupId": 4,
+			"messageCode": "SUGAR_GROUP_4_ADVICE_FOUR"
+		},
+		{
+			"groupId": 4,
+			"messageCode": "SUGAR_GROUP_4_ADVICE_FIVE"
+		},
+		{
+			"groupId": 4,
+			"messageCode": "SUGAR_GROUP_4_ADVICE_SIX"
+		},
+		{
+			"groupId": 4,
+			"messageCode": "SUGAR_GROUP_4_ADVICE_SEVEN"
+		}
+	],
+	[
+		{
+			"groupId": 5,
+			"messageCode": "SUGAR_GROUP_5_ADVICE_ONE"
+		},
+		{
+			"groupId": 5,
+			"messageCode": "SUGAR_GROUP_5_ADVICE_TWO"
+		},
+		{
+			"groupId": 5,
+			"messageCode": "SUGAR_GROUP_5_ADVICE_THREE"
+		},
+		{
+			"groupId": 5,
+			"messageCode": "SUGAR_GROUP_5_ADVICE_FOUR"
+		},
+		{
+			"groupId": 5,
+			"messageCode": "SUGAR_GROUP_5_ADVICE_FIVE"
+		}
+	],
+	[
+		{
+			"groupId": 6,
+			"messageCode": "SUGAR_GROUP_6_ADVICE_ONE"
+		},
+		{
+			"groupId": 6,
+			"messageCode": "SUGAR_GROUP_6_ADVICE_TWO"
+		},
+		{
+			"groupId": 6,
+			"messageCode": "SUGAR_GROUP_6_ADVICE_THREE"
+		},
+		{
+			"groupId": 6,
+			"messageCode": "SUGAR_GROUP_6_ADVICE_FOUR"
+		},
+		{
+			"groupId": 6,
+			"messageCode": "SUGAR_GROUP_6_ADVICE_FIVE"
+		},
+		{
+			"groupId": 6,
+			"messageCode": "SUGAR_GROUP_6_ADVICE_SIX"
+		},
+		{
+			"groupId": 6,
+			"messageCode": "SUGAR_GROUP_6_ADVICE_SEVEN"
+		}
+	],
+	[
+		{
+			"groupId": 7,
+			"messageCode": "SUGAR_GROUP_7_ADVICE_ONE"
+		},
+		{
+			"groupId": 7,
+			"messageCode": "SUGAR_GROUP_7_ADVICE_TWO"
+		},
+		{
+			"groupId": 7,
+			"messageCode": "SUGAR_GROUP_7_ADVICE_THREE"
+		},
+		{
+			"groupId": 7,
+			"messageCode": "SUGAR_GROUP_7_ADVICE_THREE"
+		},
+		{
+			"groupId": 7,
+			"messageCode": "SUGAR_GROUP_7_ADVICE_FOUR"
+		}
+	],
+	[
+		{
+			"groupId": 8,
+			"messageCode": "SUGAR_GROUP_8_ADVICE_ONE"
+		},
+		{
+			"groupId": 8,
+			"messageCode": "SUGAR_GROUP_8_ADVICE_TWO"
+		},
+		{
+			"groupId": 8,
+			"messageCode": "SUGAR_GROUP_8_ADVICE_THREE"
+		},
+		{
+			"groupId": 8,
+			"messageCode": "SUGAR_GROUP_8_ADVICE_FOUR"
+		},
+		{
+			"groupId": 8,
+			"messageCode": "SUGAR_GROUP_8_ADVICE_FIVE"
+		}
+	],
+	[
+		{
+			"groupId": 9,
+			"messageCode": "SUGAR_GROUP_9_ADVICE_ONE"
+		},
+		{
+			"groupId": 9,
+			"messageCode": "SUGAR_GROUP_9_ADVICE_TWO"
+		},
+		{
+			"groupId": 9,
+			"messageCode": "SUGAR_GROUP_9_ADVICE_THREE"
+		},
+		{
+			"groupId": 9,
+			"messageCode": "SUGAR_GROUP_9_ADVICE_FOUR"
+		},
+		{
+			"groupId": 9,
+			"messageCode": "SUGAR_GROUP_9_ADVICE_FIVE"
+		}
+	],
+	[
+		{
+			"groupId": 10,
+			"messageCode": "SUGAR_GROUP_10_ADVICE_ONE"
+		},
+		{
+			"groupId": 10,
+			"messageCode": "SUGAR_GROUP_10_ADVICE_TWO"
+		}
+	],
+	[
+		{
+			"groupId": 11,
+			"messageCode": "SUGAR_GROUP_11_ADVICE_ONE"
+		},
+		{
+			"groupId": 11,
+			"messageCode": "SUGAR_GROUP_11_ADVICE_TWO"
+		},
+		{
+			"groupId": 11,
+			"messageCode": "SUGAR_GROUP_11_ADVICE_THREE"
+		}
+	],
+	[
+		{
+			"groupId": 12,
+			"messageCode": "SUGAR_GROUP_12_ADVICE_ONE"
+		}
+	],
+	[
+		{
+			"groupId": 13,
+			"messageCode": "SUGAR_GROUP_13_ADVICE_ONE"
+		}
+	],
+	[
+		{
+			"groupId": 14,
+			"messageCode": "SUGAR_GROUP_14_ADVICE_ONE"
+		},
+		{
+			"groupId": 14,
+			"messageCode": "SUGAR_GROUP_14_ADVICE_TWO"
+		},
+		{
+			"groupId": 14,
+			"messageCode": "SUGAR_GROUP_14_ADVICE_THREE"
+		}
+	],
+	[
+		{
+			"groupId": 15,
+			"messageCode": "SUGAR_GROUP_15_ADVICE_ONE"
+		},
+		{
+			"groupId": 15,
+			"messageCode": "SUGAR_GROUP_15_ADVICE_TWO"
+		},
+		{
+			"groupId": 15,
+			"messageCode": "SUGAR_GROUP_15_ADVICE_THREE"
+		},
+		{
+			"groupId": 15,
+			"messageCode": "SUGAR_GROUP_15_ADVICE_FOUR"
+		}
+	],
+	[
+		{
+			"groupId": 16,
+			"messageCode": "SUGAR_GROUP_16_ADVICE_ONE"
+		},
+		{
+			"groupId": 16,
+			"messageCode": "SUGAR_GROUP_16_ADVICE_TWO"
+		},
+		{
+			"groupId": 16,
+			"messageCode": "SUGAR_GROUP_16_ADVICE_THREE"
+		}
+	],
+	[
+		{
+			"groupId": 17,
+			"messageCode": "SUGAR_GROUP_17_ADVICE_ONE"
+		},
+		{
+			"groupId": 17,
+			"messageCode": "SUGAR_GROUP_17_ADVICE_TWO"
+		},
+		{
+			"groupId": 17,
+			"messageCode": "SUGAR_GROUP_17_ADVICE_THREE"
+		},
+		{
+			"groupId": 17,
+			"messageCode": "SUGAR_GROUP_17_ADVICE_FOUR"
+		},
+		{
+			"groupId": 17,
+			"messageCode": "SUGAR_GROUP_17_ADVICE_FIVE"
+		},
+		{
+			"groupId": 17,
+			"messageCode": "SUGAR_GROUP_17_ADVICE_SIX"
+		}
+	],
+	[
+		{
+			"groupId": 18,
+			"messageCode": "SUGAR_GROUP_18_ADVICE_ONE"
+		},
+		{
+			"groupId": 18,
+			"messageCode": "SUGAR_GROUP_18_ADVICE_TWO"
+		},
+		{
+			"groupId": 18,
+			"messageCode": "SUGAR_GROUP_18_ADVICE_THREE"
+		},
+		{
+			"groupId": 18,
+			"messageCode": "SUGAR_GROUP_18_ADVICE_FOUR"
+		},
+		{
+			"groupId": 18,
+			"messageCode": "SUGAR_GROUP_18_ADVICE_FIVE"
+		},
+		{
+			"groupId": 18,
+			"messageCode": "SUGAR_GROUP_18_ADVICE_SIX"
+		}
+	],
+	[
+		{
+			"groupId": 19,
+			"messageCode": "SUGAR_GROUP_19_ADVICE_ONE"
+		}
+	],
+	[
+		{
+			"groupId": 20,
+			"messageCode": "SUGAR_GROUP_20_ADVICE_ONE"
+		}
+	],
+	[
+		{
+			"groupId": 21,
+			"messageCode": "SUGAR_GROUP_21_ADVICE_ONE"
+		},
+		{
+			"groupId": 21,
+			"messageCode": "SUGAR_GROUP_21_ADVICE_TWO"
+		},
+		{
+			"groupId": 21,
+			"messageCode": "SUGAR_GROUP_21_ADVICE_THREE"
+		},
+		{
+			"groupId": 21,
+			"messageCode": "SUGAR_GROUP_21_ADVICE_FOUR"
+		}
+	],
+	[
+		{
+			"groupId": 22,
+			"messageCode": "SUGAR_GROUP_22_ADVICE_ONE"
+		},
+		{
+			"groupId": 22,
+			"messageCode": "SUGAR_GROUP_22_ADVICE_TWO"
+		},
+		{
+			"groupId": 22,
+			"messageCode": "SUGAR_GROUP_22_ADVICE_THREE"
+		},
+		{
+			"groupId": 22,
+			"messageCode": "SUGAR_GROUP_22_ADVICE_FOUR"
+		}
+	],
+	[
+		{
+			"groupId": 23,
+			"messageCode": "SUGAR_GROUP_23_ADVICE_ONE"
+		}
+	],
+	[
+		{
+			"groupId": 24,
+			"messageCode": "SUGAR_GROUP_24_ADVICE_ONE"
+		},
+		{
+			"groupId": 24,
+			"messageCode": "SUGAR_GROUP_24_ADVICE_TWO"
+		},
+		{
+			"groupId": 24,
+			"messageCode": "SUGAR_GROUP_24_ADVICE_THREE"
+		},
+		{
+			"groupId": 24,
+			"messageCode": "SUGAR_GROUP_24_ADVICE_FOUR"
+		},
+		{
+			"groupId": 24,
+			"messageCode": "SUGAR_GROUP_24_ADVICE_FIVE"
+		},
+		{
+			"groupId": 24,
+			"messageCode": "SUGAR_GROUP_24_ADVICE_SIX"
+		},
+		{
+			"groupId": 24,
+			"messageCode": "SUGAR_GROUP_24_ADVICE_SEVEN"
+		}
+	],
+	[
+		{
+			"groupId": 25,
+			"messageCode": "SUGAR_GROUP_25_ADVICE_ONE"
+		},
+		{
+			"groupId": 25,
+			"messageCode": "SUGAR_GROUP_25_ADVICE_TWO"
+		},
+		{
+			"groupId": 25,
+			"messageCode": "SUGAR_GROUP_25_ADVICE_THREE"
+		},
+		{
+			"groupId": 25,
+			"messageCode": "SUGAR_GROUP_25_ADVICE_FOUR"
+		},
+		{
+			"groupId": 25,
+			"messageCode": "SUGAR_GROUP_25_ADVICE_FIVE"
+		}
+	],
+	[
+		{
+			"groupId": 26,
+			"messageCode": "SUGAR_GROUP_26_ADVICE_ONE"
+		}
+	],
+	[
+		{
+			"groupId": 27,
+			"messageCode": "SUGAR_GROUP_27_ADVICE_ONE"
+		},
+		{
+			"groupId": 27,
+			"messageCode": "SUGAR_GROUP_27_ADVICE_TWO"
+		}
+	],
+	[
+		{
+			"groupId": 28,
+			"messageCode": "SUGAR_GROUP_28_ADVICE_ONE"
+		},
+		{
+			"groupId": 28,
+			"messageCode": "SUGAR_GROUP_28_ADVICE_TWO"
+		}
+	],
+	[
+		{
+			"groupId": 29,
+			"messageCode": "SUGAR_GROUP_29_ADVICE_ONE"
+		}
+	],
+	[
+		{
+			"groupId": 30,
+			"messageCode": "SUGAR_GROUP_30_ADVICE_ONE"
+		},
+		{
+			"groupId": 30,
+			"messageCode": "SUGAR_GROUP_30_ADVICE_TWO"
+		},
+		{
+			"groupId": 30,
+			"messageCode": "SUGAR_GROUP_30_ADVICE_THREE"
+		},
+		{
+			"groupId": 30,
+			"messageCode": "SUGAR_GROUP_30_ADVICE_FOUR"
+		},
+		{
+			"groupId": 30,
+			"messageCode": "SUGAR_GROUP_30_ADVICE_FIVE"
+		}
+	],
+	[
+		{
+			"groupId": 31,
+			"messageCode": "SUGAR_GROUP_31_ADVICE_ONE"
+		},
+		{
+			"groupId": 31,
+			"messageCode": "SUGAR_GROUP_31_ADVICE_TWO"
+		},
+		{
+			"groupId": 31,
+			"messageCode": "SUGAR_GROUP_31_ADVICE_THREE"
+		},
+		{
+			"groupId": 31,
+			"messageCode": "SUGAR_GROUP_31_ADVICE_FOUR"
+		},
+		{
+			"groupId": 31,
+			"messageCode": "SUGAR_GROUP_31_ADVICE_FIVE"
+		},
+		{
+			"groupId": 31,
+			"messageCode": "SUGAR_GROUP_31_ADVICE_SIX"
+		}
+	],
+	[
+		{
+			"groupId": 32,
+			"messageCode": "SUGAR_GROUP_32_ADVICE_SIX"
+		}
+	],
+	[
+		{
+			"groupId": 33,
+			"messageCode": "SUGAR_GROUP_33_ADVICE_ONE"
+		}
+	],
+	[
+		{
+			"groupId": 34,
+			"messageCode": "SUGAR_GROUP_34_ADVICE_ONE"
+		}
+	],
+	[
+		{
+			"groupId": 35,
+			"messageCode": "SUGAR_GROUP_35_ADVICE_ONE"
+		},
+		{
+			"groupId": 35,
+			"messageCode": "SUGAR_GROUP_35_ADVICE_TWO"
+		},
+		{
+			"groupId": 35,
+			"messageCode": "SUGAR_GROUP_35_ADVICE_THREE"
+		},
+		{
+			"groupId": 35,
+			"messageCode": "SUGAR_GROUP_35_ADVICE_FOUR"
+		},
+		{
+			"groupId": 35,
+			"messageCode": "SUGAR_GROUP_35_ADVICE_FIVE"
+		}
+	],
+	[
+		{
+			"groupId": 36,
+			"messageCode": "SUGAR_GROUP_36_ADVICE_ONE"
+		},
+		{
+			"groupId": 36,
+			"messageCode": "SUGAR_GROUP_36_ADVICE_TWO"
+		},
+		{
+			"groupId": 36,
+			"messageCode": "SUGAR_GROUP_36_ADVICE_THREE"
+		},
+		{
+			"groupId": 36,
+			"messageCode": "SUGAR_GROUP_36_ADVICE_FOUR"
+		},
+		{
+			"groupId": 36,
+			"messageCode": "SUGAR_GROUP_36_ADVICE_FIVE"
+		},
+		{
+			"groupId": 36,
+			"messageCode": "SUGAR_GROUP_36_ADVICE_SIX"
+		},
+		{
+			"groupId": 36,
+			"messageCode": "SUGAR_GROUP_36_ADVICE_SEVEN"
+		},
+		{
+			"groupId": 36,
+			"messageCode": "SUGAR_GROUP_36_ADVICE_EIGHT"
+		},
+		{
+			"groupId": 36,
+			"messageCode": "SUGAR_GROUP_36_ADVICE_NINE"
+		}
+	]
+]

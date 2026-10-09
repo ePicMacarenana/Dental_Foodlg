@@ -1,0 +1,11 @@
+# Telegram Bot API wrapper (Version 20+ supports asyncio)
+python-telegram-bot[job-queue]>=20.3
+
+# Required for making external API calls to the Foodlg image recognition server
+requests>=2.31.0
+
+# REQUIRED FOR DEPLOYMENT: securely loads hidden environment variables
+python-dotenv>=1.0.0
+
+# Gemini API client for the optional scheduled weekly chat
+google-genai>=2.3.0

@@ -1,0 +1,294 @@
+[
+	[
+		{
+			"group": 1,
+			"messageCode": "GROUP_1_ADVICE_INFO_ONE"
+		},
+		{
+			"group": 1,
+			"messageCode": "GROUP_1_ADVICE_INFO_TWO"
+		},
+		{
+			"group": 1,
+			"messageCode": "GROUP_1_ADVICE_INFO_THREE"
+		},
+		{
+			"group": 1,
+			"messageCode": "GROUP_1_ADVICE_INFO_FOUR"
+		},
+		{
+			"group": 1,
+			"messageCode": "GROUP_1_ADVICE_INFO_FIVE"
+		},
+		{
+			"group": 1,
+			"messageCode": "GROUP_1_ADVICE_INFO_SIX"
+		},
+		{
+			"group": 1,
+			"messageCode": "GROUP_1_ADVICE_INFO_SEVEN"
+		}
+	],
+	[
+		{
+			"group": 2,
+			"messageCode": "GROUP_2_ADVICE_INFO_ONE"
+		},
+		{
+			"group": 2,
+			"messageCode": "GROUP_2_ADVICE_INFO_TWO"
+		},
+		{
+			"group": 2,
+			"messageCode": "GROUP_2_ADVICE_INFO_THREE"
+		},
+		{
+			"group": 2,
+			"messageCode": "GROUP_2_ADVICE_INFO_FOUR"
+		},
+		{
+			"group": 2,
+			"messageCode": "GROUP_2_ADVICE_INFO_FIVE"
+		},
+		{
+			"group": 2,
+			"messageCode": "GROUP_2_ADVICE_INFO_SIX"
+		},
+		{
+			"group": 2,
+			"messageCode": "GROUP_2_ADVICE_INFO_SEVEN"
+		}
+	],
+	[
+		{
+			"group": 3,
+			"messageCode": "GROUP_3_ADVICE_INFO_ONE"
+		},
+		{
+			"group": 3,
+			"messageCode": "GROUP_3_ADVICE_INFO_TWO"
+		},
+		{
+			"group": 3,
+			"messageCode": "GROUP_3_ADVICE_INFO_THREE"
+		},
+		{
+			"group": 3,
+			"messageCode": "GROUP_3_ADVICE_INFO_FOUR"
+		},
+		{
+			"group": 3,
+			"messageCode": "GROUP_3_ADVICE_INFO_FIVE"
+		},
+		{
+			"group": 3,
+			"messageCode": "GROUP_3_ADVICE_INFO_SIX"
+		}
+	],
+	[
+		{
+			"group": 5,
+			"messageCode": "GROUP_5_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 6,
+			"messageCode": "GROUP_6_ADVICE_INFO_ONE"
+		},
+		{
+			"group": 6,
+			"messageCode": "GROUP_6_ADVICE_INFO_TWO"
+		},
+		{
+			"group": 6,
+			"messageCode": "GROUP_6_ADVICE_INFO_THREE"
+		}
+	],
+	[
+		{
+			"group": 7,
+			"messageCode": "GROUP_7_ADVICE_INFO_ONE"
+		},
+		{
+			"group": 7,
+			"messageCode": "GROUP_7_ADVICE_INFO_TWO"
+		}
+	],
+	[
+		{
+			"group": 8,
+			"messageCode": "GROUP_8_ADVICE_INFO_ONE"
+		},
+		{
+			"group": 8,
+			"messageCode": "GROUP_8_ADVICE_INFO_TWO"
+		}
+	],
+	[
+		{
+			"group": 9,
+			"messageCode": "GROUP_9_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 10,
+			"messageCode": "GROUP_10_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 11,
+			"messageCode": "GROUP_11_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 14,
+			"messageCode": "GROUP_14_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 15,
+			"messageCode": "GROUP_15_ADVICE_INFO_ONE"
+		},
+		{
+			"group": 15,
+			"messageCode": "GROUP_15_ADVICE_INFO_TWO"
+		}
+	],
+	[
+		{
+			"group": 16,
+			"messageCode": "GROUP_16_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 18,
+			"messageCode": "GROUP_18_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 19,
+			"messageCode": "GROUP_19_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 20,
+			"messageCode": "GROUP_20_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 21,
+			"messageCode": "GROUP_21_ADVICE_INFO_ONE"
+		},
+		{
+			"group": 21,
+			"messageCode": "GROUP_21_ADVICE_INFO_TWO"
+		}
+	],
+	[
+		{
+			"group": 22,
+			"messageCode": "GROUP_22_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 23,
+			"messageCode": "GROUP_23_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 24,
+			"messageCode": "GROUP_24_ADVICE_INFO_ONE"
+		},
+		{
+			"group": 24,
+			"messageCode": "GROUP_24_ADVICE_INFO_TWO"
+		}
+	],
+	[
+		{
+			"group": 25,
+			"messageCode": "GROUP_25_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 27,
+			"messageCode": "GROUP_27_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 28,
+			"messageCode": "GROUP_28_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 29,
+			"messageCode": "GROUP_29_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 30,
+			"messageCode": "GROUP_30_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 31,
+			"messageCode": "GROUP_31_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 32,
+			"messageCode": "GROUP_32_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 33,
+			"messageCode": "GROUP_33_ADVICE_INFO_ONE"
+		}
+	],
+	[
+		{
+			"group": 35,
+			"messageCode": "GROUP_35_ADVICE_INFO_ONE"
+		},
+		{
+			"group": 35,
+			"messageCode": "GROUP_35_ADVICE_INFO_TWO"
+		},
+		{
+			"group": 35,
+			"messageCode": "GROUP_35_ADVICE_INFO_THREE"
+		},
+		{
+			"group": 35,
+			"messageCode": "GROUP_35_ADVICE_INFO_FOUR"
+		},
+		{
+			"group": 35,
+			"messageCode": "GROUP_35_ADVICE_INFO_FIVE"
+		}
+	],
+	[
+		{
+			"group": 36,
+			"messageCode": "GROUP_36_ADVICE_INFO_ONE"
+		}
+	]
+]
